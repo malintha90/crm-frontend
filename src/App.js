@@ -1,13 +1,16 @@
 
 import './App.css';
 import Layout from './Layout/Layout';
+
+import DashboardComp from './pages/Dashboard/DashboardComp';
+
 import Entry from './pages/entry/Entry';
 
 function App() {
   return (
     <div className="App">
       <Layout>
-        Main Content
+        <DashboardComp/>
       </Layout>
       {/* <Entry/> */}
     </div>

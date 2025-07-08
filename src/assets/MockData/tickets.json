@@ -1,0 +1,12 @@
+[
+  { "id": 1, "Subject": "Login Issue", "Status": "Open", "OpenDate": "2025-07-08" },
+  { "id": 2, "Subject": "Password Reset", "Status": "Closed", "OpenDate": "2025-07-07" },
+  { "id": 3, "Subject": "Unable to access dashboard", "Status": "Open", "OpenDate": "2025-07-06" },
+  { "id": 4, "Subject": "Email notifications not received", "Status": "Pending", "OpenDate": "2025-07-05" },
+  { "id": 5, "Subject": "Feature request: Dark mode", "Status": "Open", "OpenDate": "2025-07-04" },
+  { "id": 6, "Subject": "Bug in ticket creation", "Status": "Closed", "OpenDate": "2025-07-03" },
+  { "id": 7, "Subject": "Unable to upload files", "Status": "Open", "OpenDate": "2025-07-02" },
+  { "id": 8, "Subject": "Slow system performance", "Status": "Pending", "OpenDate": "2025-07-01" },
+  { "id": 9, "Subject": "Account locked", "Status": "Closed", "OpenDate": "2025-06-30" },
+  { "id": 10, "Subject": "Data export not working", "Status": "Open", "OpenDate": "2025-06-29" }
+]
