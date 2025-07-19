@@ -23,7 +23,8 @@ const [form, setForm] = useState({
 
   return (
     <div className="d-flex justify-content-center" style={{ marginTop: '2rem' }}>
-      <Card style={{ width: '400px' }}>
+      <Card style={{ width: '400px' }} className="shadow"
+      >
         <Card.Body>
           <Card.Title className="mb-4 text-center">Create Ticket</Card.Title>
           <Form onSubmit={handleSubmit}>

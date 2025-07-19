@@ -1,5 +1,5 @@
 import React from 'react'
-import { Container, Row, Col, Button } from 'react-bootstrap'
+import { Container, Row, Col } from 'react-bootstrap'
 import BreadcrumbComp from '../../Components/Breadcrumb/BreadcrumbComp'
 import AddTicketForm from '../../Components/TicketForm/AddTicketForm'
 
@@ -11,11 +11,11 @@ const AddNewTicket = () => {
                 <BreadcrumbComp page={"Add New Ticket"}/>
             </Col>
         </Row>
-      <Row>
-        <Col>
-               <AddTicketForm/>
+        <Row>
+            <Col>
+                <AddTicketForm/>
             </Col>
-      </Row>
+        </Row>
     </Container>
   )
 }
